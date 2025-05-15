@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Tranquilo?, eu sou o Felipe Guterres!
 
-<!--
-**FelipeGuterres/FelipeGuterres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Front-End/Back-End | 🎨 Foco em interfaces acessíveis e responsivas
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipeguterres&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeguterres&layout=compact&theme=radical"/>
+</p>
+
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipeguterres)
+- 📧 guter.lipe@gmail.com
+
+---
+
+### 📜 Sobre mim
+- 🚀 Estudante de Desenvolvimento Web com foco em JavaScript
+- 💡 Acredito em soluções simples e funcionais
+- 📚 Buscando sempre aprender mais sobre a lógica e boas práticas
+- 🤝 Aberto a colaborações em projetos sociais
+
