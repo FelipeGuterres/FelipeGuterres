@@ -14,9 +14,8 @@
 </p>
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipeguterres)
+- 💼 [LinkedIn](www.linkedin.com/in/felipe-guterres-453235327)
 - 📧 guter.lipe@gmail.com
-
 ---
 
 ### 📜 Sobre mim
